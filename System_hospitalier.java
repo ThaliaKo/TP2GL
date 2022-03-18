@@ -35,11 +35,13 @@ public class System_hospitalier {
 	
 	private String analyserRequete(Requête requête) {
 		// Analyser la requête
+		// Identifier et trier les symptômes du patient
 		return "requête analysée";
 	}
 	
 	private String comparerDonnes() {
 		// Comparaison des données
+		// Comparer les symptômes du patient avec la base de données
 		return "Cluster trouvé";
 	}
 
